@@ -1,0 +1,10 @@
+app: 
+  port: 8080
+  token: "18EA3292-F9A1-6867-4F7C-EAD8BCDF89E8"
+
+db:
+  redis: 
+    mode: "single"
+    host: "127.0.0.1"
+    port: 6379
+    

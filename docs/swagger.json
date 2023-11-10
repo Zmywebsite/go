@@ -1,0 +1,11 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "学习GoLang Web开发记录",
+        "title": "Go-Web学习开发记录",
+        "contact": {},
+        "version": "0.0.1"
+    },
+    "host": "localhost:8080",
+    "paths": {}
+}
